@@ -92,7 +92,7 @@ function CemberinAlani(cemberinYaricapi, pi) {
 */
 
 /*  (oto test yok) sayilar dizisi içinde kaç adet sayı olduğunu konsola yazdırın */
-
+ 
 let ucetambolunenler,
   enkucuk,
   enbuyuk,
