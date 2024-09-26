@@ -116,6 +116,7 @@ for (let i = 0; i < sayilar.length; i++)
 };
 /* kodlar buraya */
 
+
 // 3b çözümü:
 const ucetambolunenler = [];
 sayilar.forEach((sayi) => {
