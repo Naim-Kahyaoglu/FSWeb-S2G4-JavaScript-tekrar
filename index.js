@@ -157,6 +157,8 @@ for (const sayi in tekrarSayilari) {
 }
 
 
+
+
 /* kodlar buraya */
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
